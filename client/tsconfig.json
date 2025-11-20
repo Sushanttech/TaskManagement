@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es2017",
+    "module": "es2020",
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "types": []
+  },
+  "files": ["src/main.ts"],
+  "include": ["src/**/*.ts"]
+}
